@@ -1,4 +1,4 @@
-# Machine Learn Project - Wine Quality Predict
+# Machine Learn Project - Wine Quality Predict 🍷
 > [Project Idea](https://www.geeksforgeeks.org/wine-quality-prediction-machine-learning/)
 
 ## Project desc:
